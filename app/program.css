@@ -1,0 +1,66 @@
+body {
+	text-align: center;
+	font-family: arial, sans-serif;
+	font-size: 11px ;
+	color: #666666;
+	background-color: #FFFFFF;
+}
+
+.member_table {
+	
+	font-family: arial, sans-serif;
+	font-size: 11px ;
+	color: #285e95;
+	
+}
+
+td, a, select, input {
+	font-family: arial, sans-serif;
+	font-size: 11px ;
+	color: #285e95 ;
+	text-decoration: none ;
+}
+
+a:hover {
+	font-weight: bold;
+}
+
+.nav {
+	font-family: arial, sans-serif;
+	font-size: 11px ;
+	color: white ;
+	text-decoration: none ;
+}
+
+.field {
+	z-index: 0 ;
+	font-size: 11px ;
+	color: #000000;
+	background: #ffffff;
+	border: 1px solid #285e95
+}
+
+#navtable {
+	font-family: arial, sans-serif;
+	font-size: 14px ;
+	color: white ;
+	font-weight: bold ;
+	text-decoration: none ;
+}
+#navtable1 {
+	font-family: arial, sans-serif;
+	font-size: 14px ;
+	color: white ;
+	text-decoration: none ;
+}
+
+#search-results {
+	width : 100px; 
+	border : 3px solid #aaaaaa;
+	position: absolute;
+    margin-top : 0px; 
+    display : none;
+	font-family : arial; 
+	font-size : 10px; 
+	color: black ;
+}
